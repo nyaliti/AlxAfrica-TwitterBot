@@ -34,11 +34,11 @@ ACCESS_TOKEN_SECRET='your_access_token_secret'
 
 4. Confirm the bot is working:
 <ul>
-<li>Send a tweet mentioning ```@alxafrica```.</li>
+<li>Send a tweet mentioning @alx_africa.</li>
 <li>Monitor the logs in the Azure portal to verify that the bot successfully retweets the tweet.</li>
 <li>Check the target Twitter account to confirm if the tweet has been retweeted.</li>
 </ul>
 
 <p>
-Now you have successfully deployed the Alxafrica Twitter Retweet Bot on Azure Functions. The bot will automatically retweet tweets from the user `@alxafrica`. Ensure that you have installed the required dependencies, set up the environment variables, and deployed the bot on Azure Functions. Follow the provided steps to confirm that the bot is functioning as expected.
+Now you have successfully deployed the Alxafrica Twitter Retweet Bot on Azure Functions. The bot will automatically retweet tweets from the user @alx_africa. Ensure that you have installed the required dependencies, set up the environment variables, and deployed the bot on Azure Functions. Follow the provided steps to confirm that the bot is functioning as expected.
 </p>
