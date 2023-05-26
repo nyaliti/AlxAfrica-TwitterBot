@@ -34,7 +34,7 @@ ACCESS_TOKEN_SECRET='your_access_token_secret'
 
 4. Confirm the bot is working:
 <ul>
-<li>Send a tweet mentioning `@alxafrica`.</li>
+<li>Send a tweet mentioning ```@alxafrica```.</li>
 <li>Monitor the logs in the Azure portal to verify that the bot successfully retweets the tweet.</li>
 <li>Check the target Twitter account to confirm if the tweet has been retweeted.</li>
 </ul>
