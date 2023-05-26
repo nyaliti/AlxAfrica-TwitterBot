@@ -1,0 +1,11 @@
+{
+    "version": "2.0",
+    "extensions": {
+      "azureFunctions": {
+        "maxConcurrentRequests": 500,
+        "maxConcurrentFunctions": 500,
+        "maxOutstandingRequests": 500
+      }
+    }
+  }
+  
